@@ -16,7 +16,7 @@
   "description": "This is the first package built by StevenZeng",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/senzg/steven_first_package.git"
+    "url": "https://github.com/senzg/steven_first_package"
   },
   "bugs": {
     "url": "https://github.com/senzg/steven_first_package/issues"
