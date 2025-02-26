@@ -1,0 +1,20 @@
+{
+  "name": "@stevenzeng/steven_first_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steven Zeng",
+  "license": "ISC",
+  "description": "This is the first package built by StevenZeng",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/senzg/steven_first_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/senzg/steven_first_package/issues"
+  },
+  "homepage": "https://github.com/senzg/steven_first_package#readme"
+}
