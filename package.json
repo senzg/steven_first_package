@@ -1,6 +1,6 @@
 {
-  "name": "@stevenzeng/steven_first_package",
-  "version": "1.0.0",
+  "name": "steven_first_package",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
